@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright (c) 2011-2015. ShenZhen iBOXPAY Information Technology Co.,Ltd.
+  ~
+  ~ All right reserved.
+  ~
+  ~ This software is the confidential and proprietary
+  ~ information of iBoxPay Company of China.
+  ~ ("Confidential Information"). You shall not disclose
+  ~ such Confidential Information and shall use it only
+  ~ in accordance with the terms of the contract agreement
+  ~ you entered into with iBoxpay inc.
+  ~ array.xml ,Created by: pengjianbo ,2015-03-25 10:28:31 ,lastModified:2015-01-21 15:52:37
+  -->
+
+<resources>
+    <string-array name="weeks">
+        <item>周日</item>
+        <item>周一</item>
+        <item>周二</item>
+        <item>周三</item>
+        <item>周四</item>
+        <item>周五</item>
+        <item>周六</item>
+    </string-array>
+
+    <string-array name="cardholder_sign_printer_text_item">
+        <item>盒子支付签购单\n\n</item>
+        <item>持卡人存根CARDHOLDER COPY\n</item>
+        <item>-----------------------------\n</item>
+        <item>商户名称MERCHANT\n</item>
+        <item>%1$s\n</item>
+        <item>商户编号MERCHANT NO.\n</item>
+        <item>%1$s\n</item>
+        <item>终端编号TERMINAL ID\n</item>
+        <item>%1$s\n</item>
+        <item>操作员号OPERATOR NO.        %1$s\n</item>
+        <item>-----------------------------\n</item>
+        <item>卡号NUMBER\n</item>
+        <item>%1$s</item>
+        <item>发卡行ISS         %1$s\n</item>
+        <item>收单行号ACQ NO.         %1$s\n</item>
+        <item>交易类型TRANS TYPE\n</item>
+        <item>%1$s</item>
+        <item>\n流水号TRACE NO.\n</item>
+        <item>%1$s</item>
+        <item>\n批次号BATCH NO.         %1$s\n</item>
+        <item>凭证号VOUVHER NO.       %1$s\n</item>
+        <item>参考号REFER NO.   %1$s\n</item>
+        <item>授权码AUTH NO.        %1$s\n</item>
+        <item>交易日期/时间DATE/TIME\n</item>
+        <item>%1$s\n</item>
+        <item>交易金额AMOUT\n</item>
+        <item>RMB %1$s</item>
+        <item>\n备注REFERENCE\n</item>
+        <item>----------------------------</item>
+    </string-array>
+
+    <string-array name="merchant_sign_printer_text_item">
+        <item>盒子支付签购单\n\n</item>
+        <item>商户存根MERCHANT COPY\n</item>
+        <item>-----------------------------\n</item>
+        <item>商户名称MERCHANT\n</item>
+        <item>%1$s\n</item>
+        <item>商户编号MERCHANT NO.\n</item>
+        <item>%1$s\n</item>
+        <item>终端编号TERMINAL ID\n</item>
+        <item>%1$s\n</item>
+        <item>操作员号OPERATOR NO.        %1$s\n</item>
+        <item>-----------------------------\n</item>
+        <item>卡号NUMBER\n</item>
+        <item>%1$s</item>
+        <item>发卡行ISS         %1$s\n</item>
+        <item>收单行号ACQ NO.         %1$s\n</item>
+        <item>交易类型TRANS TYPE\n</item>
+        <item>%1$s</item>
+        <item>\n流水号TRACE NO.\n</item>
+        <item>%1$s</item>
+        <item>\n批次号BATCH NO.         %1$s\n</item>
+        <item>凭证号VOUVHER NO.       %1$s\n</item>
+        <item>参考号REFER NO.   %1$s\n</item>
+        <item>授权码AUTH NO.        %1$s\n</item>
+        <item>交易日期/时间DATE/TIME\n</item>
+        <item>%1$s\n</item>
+        <item>交易金额AMOUT\n</item>
+        <item>RMB %1$s</item>
+        <item>\n备注REFERENCE\n</item>
+        <item>----------------------------</item>
+    </string-array>
+
+
+    <string-array name="weipay_alipay_printer_text_item">
+        <item>盒子支付签购单\n\n</item>
+        <item>商户存根\n</item>
+        <item>-----------------------------\n</item>
+        <item>商户名称:   %1$s\n</item>
+        <item>商户编号:   %1$s\n</item>
+        <item>终端编号:   %1$s\n</item>
+        <item>-----------------------------\n</item>
+        <item>交易名称:   %1$s\n</item>
+        <item>交易类型:   %1$s\n</item>
+        <item>流水号:%1$s\n</item>
+        <item>交易日期/时间:\n</item>
+        <item>%1$s\n</item>
+        <item>交易金额:\n</item>
+        <item>RMB %1$s</item>
+        <item>\n备注:     %1$s\n</item>
+        <item>----------------------------</item>
+        <item>\n\n\n\n</item>
+    </string-array>
+
+
+    <string-array name="home_disable_activity">
+        <item>com.iboxpay.minicashbox.HomeActivity</item>
+        <item>com.iboxpay.minicashbox.ApiChooseDebugActivity</item>
+        <item>com.iboxpay.minicashbox.LoginGuideActivity</item>
+        <item>com.iboxpay.minicashbox.GuideActivity</item>
+        <item>com.iboxpay.minicashbox.LoginActivity</item>
+    </string-array>
+</resources>

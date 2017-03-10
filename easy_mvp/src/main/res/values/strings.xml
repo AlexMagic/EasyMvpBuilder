@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">S300_common</string>
+
+    <!-- account book -->
+    <string name="year_month_day_week">%1$d年%2$d月%3$d日</string>
+    <string name="month_day_week">%1$d月%2$d日</string>
+    <string name="today">今天</string>
+    <string name="yesterday">昨天</string>
+    <string name="trans_status_fail">交易失败</string>
+    <string name="trans_status_unknow">结果未知</string>
+    <string name="trans_status_success">交易成功</string>
+    <string name="trans_status_pause">暂停结算</string>
+    <string name="trans_status_decline">已撤销</string>
+
+    <string name="status_unavailable">"不可用"</string>
+    <string name="baseband_version">基带</string>
+
+</resources>
