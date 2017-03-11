@@ -27,4 +27,4 @@ compile 'io.reactivex:rxandroid:1.0.1'
 ```
 
 ## 详情
-如果想了解更多，可以[点击这里](https://alexmagic.github.io/)来阅读在博客中的详细介绍。
+如果想了解更多，可以[点击这里](https://alexmagic.github.io/2017/03/10/基于MVP模式搭建Android应用/)来阅读在博客中的详细介绍。
